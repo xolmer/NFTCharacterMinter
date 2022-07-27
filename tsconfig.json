@@ -14,7 +14,6 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "experimentalSuppressInvalidJsxElementTypeErrors": true,
     "useUnknownInCatchVariables": false
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
